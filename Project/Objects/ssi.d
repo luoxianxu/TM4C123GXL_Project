@@ -1,0 +1,11 @@
+.\objects\ssi.o: ..\Libraries\src\ssi.c
+.\objects\ssi.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\ssi.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ssi.o: ..\Libraries\inc/hw_ints.h
+.\objects\ssi.o: ..\Libraries\inc/hw_memmap.h
+.\objects\ssi.o: ..\Libraries\inc/hw_ssi.h
+.\objects\ssi.o: ..\Libraries\inc/hw_sysctl.h
+.\objects\ssi.o: ..\Libraries\inc/hw_types.h
+.\objects\ssi.o: ..\Libraries\driverlib/debug.h
+.\objects\ssi.o: ..\Libraries\driverlib/interrupt.h
+.\objects\ssi.o: ..\Libraries\driverlib/ssi.h
