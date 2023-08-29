@@ -1,0 +1,12 @@
+.\objects\mydma.o: ..\Hardware\DMA\myDMA.c
+.\objects\mydma.o: ..\Hardware\DMA\myDMA.h
+.\objects\mydma.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mydma.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\mydma.o: ..\Libraries\driverlib/sysctl.h
+.\objects\mydma.o: ..\Libraries\inc/hw_memmap.h
+.\objects\mydma.o: ..\Libraries\driverlib/pin_map.h
+.\objects\mydma.o: ..\Libraries\driverlib/udma.h
+.\objects\mydma.o: ..\Libraries\inc/hw_udma.h
+.\objects\mydma.o: ..\Libraries\inc/hw_uart.h
+.\objects\mydma.o: ..\Libraries\driverlib/interrupt.h
+.\objects\mydma.o: ..\Libraries\inc/hw_ints.h

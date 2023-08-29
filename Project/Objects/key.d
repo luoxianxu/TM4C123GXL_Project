@@ -1,0 +1,14 @@
+.\objects\key.o: ..\Hardware\Key\key.c
+.\objects\key.o: ..\Hardware\Key\key.h
+.\objects\key.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\key.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\key.o: ..\Libraries\driverlib/gpio.h
+.\objects\key.o: ..\Libraries\inc/hw_gpio.h
+.\objects\key.o: ..\Libraries\driverlib/sysctl.h
+.\objects\key.o: ..\Libraries\inc/hw_memmap.h
+.\objects\key.o: ..\Libraries\driverlib/interrupt.h
+.\objects\key.o: ..\Libraries\inc/hw_ints.h
+.\objects\key.o: ..\Libraries\inc/hw_types.h
+.\objects\key.o: ..\Hardware\RGB_LED\rgb.h
+.\objects\key.o: ..\Libraries\utils/uartstdio.h
+.\objects\key.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h

@@ -1,0 +1,12 @@
+.\objects\myi2c.o: ..\Hardware\I2C\myI2C.c
+.\objects\myi2c.o: ..\Hardware\I2C\myI2C.h
+.\objects\myi2c.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\myi2c.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\myi2c.o: ..\Libraries\driverlib/gpio.h
+.\objects\myi2c.o: ..\Libraries\inc/hw_gpio.h
+.\objects\myi2c.o: ..\Libraries\driverlib/sysctl.h
+.\objects\myi2c.o: ..\Libraries\inc/hw_memmap.h
+.\objects\myi2c.o: ..\Libraries\inc/hw_types.h
+.\objects\myi2c.o: ..\Libraries\driverlib/pin_map.h
+.\objects\myi2c.o: ..\Libraries\driverlib/i2c.h
+.\objects\myi2c.o: ..\Libraries\inc/hw_i2c.h

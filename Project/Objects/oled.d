@@ -1,0 +1,14 @@
+.\objects\oled.o: ..\Hardware\oled\oled.c
+.\objects\oled.o: ..\Hardware\oled\oled.h
+.\objects\oled.o: ..\Hardware\I2C\myI2C.h
+.\objects\oled.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\oled.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\oled.o: ..\Libraries\driverlib/gpio.h
+.\objects\oled.o: ..\Libraries\inc/hw_gpio.h
+.\objects\oled.o: ..\Libraries\driverlib/sysctl.h
+.\objects\oled.o: ..\Libraries\inc/hw_memmap.h
+.\objects\oled.o: ..\Libraries\inc/hw_types.h
+.\objects\oled.o: ..\Libraries\driverlib/pin_map.h
+.\objects\oled.o: ..\Libraries\driverlib/i2c.h
+.\objects\oled.o: ..\Libraries\inc/hw_i2c.h
+.\objects\oled.o: ..\Hardware\oled\oledfont.h

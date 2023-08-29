@@ -1,0 +1,14 @@
+.\objects\myeeprom.o: ..\Hardware\EEPROM\myEEPROM.c
+.\objects\myeeprom.o: ..\Hardware\EEPROM\myEEPROM.h
+.\objects\myeeprom.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\myeeprom.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\myeeprom.o: ..\Libraries\inc/hw_eeprom.h
+.\objects\myeeprom.o: ..\Libraries\inc/hw_flash.h
+.\objects\myeeprom.o: ..\Libraries\inc/hw_ints.h
+.\objects\myeeprom.o: ..\Libraries\inc/hw_sysctl.h
+.\objects\myeeprom.o: ..\Libraries\inc/hw_types.h
+.\objects\myeeprom.o: ..\Libraries\driverlib/debug.h
+.\objects\myeeprom.o: ..\Libraries\driverlib/flash.h
+.\objects\myeeprom.o: ..\Libraries\driverlib/interrupt.h
+.\objects\myeeprom.o: ..\Libraries\driverlib/sysctl.h
+.\objects\myeeprom.o: ..\Libraries\driverlib/eeprom.h

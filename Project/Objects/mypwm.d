@@ -1,0 +1,13 @@
+.\objects\mypwm.o: ..\Hardware\Pwm\myPwm.c
+.\objects\mypwm.o: ..\Hardware\Pwm\myPwm.h
+.\objects\mypwm.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mypwm.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\mypwm.o: ..\Libraries\driverlib/gpio.h
+.\objects\mypwm.o: ..\Libraries\inc/hw_gpio.h
+.\objects\mypwm.o: ..\Libraries\driverlib/sysctl.h
+.\objects\mypwm.o: ..\Libraries\inc/hw_memmap.h
+.\objects\mypwm.o: ..\Libraries\driverlib/interrupt.h
+.\objects\mypwm.o: ..\Libraries\inc/hw_ints.h
+.\objects\mypwm.o: ..\Libraries\inc/hw_types.h
+.\objects\mypwm.o: ..\Libraries\driverlib/pin_map.h
+.\objects\mypwm.o: ..\Libraries\driverlib/pwm.h

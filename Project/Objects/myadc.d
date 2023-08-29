@@ -1,0 +1,13 @@
+.\objects\myadc.o: ..\Hardware\Adc\myAdc.c
+.\objects\myadc.o: ..\Hardware\Adc\myAdc.h
+.\objects\myadc.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\myadc.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\myadc.o: ..\Libraries\driverlib/sysctl.h
+.\objects\myadc.o: ..\Libraries\inc/hw_memmap.h
+.\objects\myadc.o: ..\Libraries\driverlib/pin_map.h
+.\objects\myadc.o: ..\Libraries\driverlib/gpio.h
+.\objects\myadc.o: ..\Libraries\inc/hw_gpio.h
+.\objects\myadc.o: ..\Libraries\driverlib/adc.h
+.\objects\myadc.o: ..\Libraries\inc/hw_adc.h
+.\objects\myadc.o: ..\Libraries\inc/hw_ints.h
+.\objects\myadc.o: ..\Libraries\driverlib/interrupt.h

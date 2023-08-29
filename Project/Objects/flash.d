@@ -1,0 +1,10 @@
+.\objects\flash.o: ..\Libraries\src\flash.c
+.\objects\flash.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\flash.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\flash.o: ..\Libraries\inc/hw_flash.h
+.\objects\flash.o: ..\Libraries\inc/hw_ints.h
+.\objects\flash.o: ..\Libraries\inc/hw_sysctl.h
+.\objects\flash.o: ..\Libraries\inc/hw_types.h
+.\objects\flash.o: ..\Libraries\driverlib/debug.h
+.\objects\flash.o: ..\Libraries\driverlib/flash.h
+.\objects\flash.o: ..\Libraries\driverlib/interrupt.h
